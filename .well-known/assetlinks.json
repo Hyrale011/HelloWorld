@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.helloworldapp",
+    "sha256_cert_fingerprints":
+    ["84:5E:30:16:22:84:3D:28:D2:88:3C:9F:F5:5B:A3:9F:18:8B:D5:D7:97:BC:46:67:1E:8C:FC:CC:F7:F4:F3:72"]
+  }
+}]
